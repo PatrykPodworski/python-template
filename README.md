@@ -47,6 +47,7 @@ Results are JSON on stdout. An error is one stderr line,
 ```sh
 uv run ruff check
 uv run ruff format --check
+uv run typos
 uv run mypy
 uv run pytest
 uv run vulture
