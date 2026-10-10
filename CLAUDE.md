@@ -51,6 +51,7 @@ CI (`.github/workflows/ci.yml`) runs these on every pull request and push to `ma
 - `uv run typos`
 - `uv run vulture`
 - `uv run deptry src`
+- `uv run zizmor .github`
 - `uv run mutmut run` (score ≥ 80%, see below)
 
 ## Mutation testing
