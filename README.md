@@ -52,5 +52,6 @@ uv run mypy
 uv run pytest
 uv run vulture
 uv run deptry src
+uv run zizmor .github
 uv run mutmut run
 ```
